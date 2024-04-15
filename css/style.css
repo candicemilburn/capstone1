@@ -1,4 +1,4 @@
-body {
+pxbody {
     background-color: #ffffff;
 
 }
@@ -7,3 +7,11 @@ body {
   font-family:"Dancing Script";
   font-size: 60px;
 }
+.swim {
+    display: grid;
+    align-items: first baseline; 
+    grid-template-columns: 1fr 1fr;
+    column-gap: 275px;
+   }
+
+   .image{ padding-left: 95px;}
