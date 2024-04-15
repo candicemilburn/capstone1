@@ -3,7 +3,8 @@ body {
 
 }
 
-#d-flex{
-  justify-content: right;
+.navbar-brand{
+  font-family:"Dancing Script";
+  font-size: 60px;
 }
 
