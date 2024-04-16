@@ -1,17 +1,23 @@
-pxbody {
+body {
     background-color: #ffffff;
 
 }
 
-.navbar-brand{
-  font-family:"Dancing Script";
-  font-size: 60px;
+.navbar-brand {
+    font-family: "Dancing Script";
+    font-size: 60px;
 }
+
 .swim {
     display: grid;
-    align-items: first baseline; 
+    align-items: first baseline;
     grid-template-columns: 1fr 1fr;
     column-gap: 275px;
-   }
+}
 
-   .image{ padding-left: 95px;}
+.image {
+    padding-left: 95px;
+}
+
+.d-flex {padding-left: 200px; padding-right: 80px;}
+
