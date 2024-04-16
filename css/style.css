@@ -10,9 +10,9 @@ body {
 
 .swim {
     display: grid;
-    align-items: first baseline;
+    align-items: center;
     grid-template-columns: 1fr 1fr;
-    column-gap: 275px;
+    
 }
 
 .image {
@@ -42,3 +42,10 @@ body {
     column-gap: 5px;
     text-align: center;
 }
+
+.text {
+    font-family: "Dancing Script";
+    font-size: 55px;
+    display: inline-block;
+}
+
