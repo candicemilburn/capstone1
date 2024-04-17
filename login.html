@@ -61,31 +61,33 @@
                                 v-model="password"
                                 v-bind:class="{'form-control':true, 'is-invalid' : !validPassword(password) && passwordBlured}"
                                 v-on:blur="passwordBlured = true"> <br>
-                                <br>
-                                <input type="checkbox" id="Remember" name="Remember" value="Remember">
-                                <label for="Remember">Remember Me</label>
+                            <br>
+                            <input type="checkbox" id="Remember" name="Remember" value="Remember">
+                            <label for="Remember">Remember Me</label>
                             <div class="invalid-feedback">Password must be 8 character!</div>
                         </div>
-                        <div class="mb-3"> <button v-on:click.stop.prevent="submit"
-                                class="btn btn-light w-100">Login</button> </div>
-                                                     <div class="register"></div> Haven't signed up? <a href="registration.html" target="_blank">Register here.</a> </div>
+                        <div class="mb-3"> <button type="submit" class="btn btn-light w-100">Login</button> </div>
+                        <div class="register"></div> Haven't signed up? <a href="registration.html"
+                            target="_blank">Register here.</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     </div>
+    </div>
 
     <div class="container">
-        <footer class="my-5 pt-5 text-muted text-center text-small"footer style="height: 100px;; background-color:#eed799;">
-          <p class="mb-1">&copy; 2017-2019 Swim Sugar</p>
-          <ul class="list-inline">
-            <li class="list-inline-item"><a href="#">Privacy</a></li>
-            <li class="list-inline-item"><a href="#">Terms</a></li>
-            <li class="list-inline-item"><a href="#">Support</a></li>
-          </ul>
+        <footer class="my-5 pt-5 text-muted text-center text-small" footer
+            style="height: 100px;; background-color:#eed799;">
+            <p class="mb-1">&copy; 2017-2019 Swim Sugar</p>
+            <ul class="list-inline">
+                <li class="list-inline-item"><a href="#">Privacy</a></li>
+                <li class="list-inline-item"><a href="#">Terms</a></li>
+                <li class="list-inline-item"><a href="#">Support</a></li>
+            </ul>
         </footer>
-      </div>
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"

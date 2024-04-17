@@ -55,7 +55,7 @@ body {
     object-fit: cover;
 }
 
-{box-sizing: border-box}
+
 
 /* Add padding to containers */
 .container {
@@ -108,5 +108,5 @@ a {
 .signin {
   background-color: #ffffff;
   text-align: center;
-
+}
   
