@@ -17,7 +17,7 @@ body {
 }
 
 .image {
-    padding-left: 95px;
+    padding-left: 16px;
 }
 
 .d-flex {padding-left: 250px; padding-right: 50px;}
@@ -46,7 +46,7 @@ body {
 
 .text {
     font-family: "Dancing Script";
-    font-size: 55px;
+    font-size: 61px;
     display: inline-block;
 }
 
