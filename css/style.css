@@ -12,6 +12,7 @@ body {
     display: grid;
     align-items: center;
     grid-template-columns: 1fr 1fr;
+    text-align: center;
     
 }
 
@@ -110,3 +111,6 @@ a {
   text-align: center;
 }
   
+#clothing {
+    list-style: none; font-size: larger; text-align: center;
+    }
