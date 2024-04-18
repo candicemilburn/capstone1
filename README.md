@@ -19,7 +19,7 @@ The technologies used in this project include:
 
 git clone https://github.com/candicemilburn/capstone1.git
 
-## Some of my favorite HTML:
+## Some of my favorite Code:
 ``` <div class="card" id="sunglasses">
                 <img src="images/glasses.jpg" alt="orange sunglasses"
                     style="width: 300px;height: 400px; padding-left: 50px; padding-top: 20%; padding-bottom: 15%;">
@@ -29,7 +29,7 @@ git clone https://github.com/candicemilburn/capstone1.git
             </div>
 ```
 
-This is a card code. This boxes up items of importance. This piece of HTML was the most simple to write but made a very big impact of the look of my product shopping page. There was no CSS used with this particular code but it was still simple and clean and organized 
+This is a card code I got from Bootstrap. This boxes up items of importance. This piece of HTML was the most simple to write but made a very big impact of the look of my product shopping page. There was no CSS used with this particular code but it was still simple and clean and organized 
 
 
 ## This how my website looks
