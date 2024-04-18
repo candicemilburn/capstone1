@@ -112,5 +112,11 @@ a {
 }
   
 #clothing {
-    list-style: none; font-size: larger; text-align: center;
+    list-style: circle; font-size: larger; text-align: center;
     }
+
+    .checkout {padding-left: 60px; border-style: solid; border-color: #57a9f1;}
+
+   .sales { font-family: "Dancing Script";
+    font-size: 61px;
+    text-align: center;}
