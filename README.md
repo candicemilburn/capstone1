@@ -17,7 +17,7 @@ This project contains 7 pages:<br>
 The technologies used in this project include:
   * HTML
   * CSS
-  *Bootstrap 5
+  * Bootstrap 5
 
 ## Install This Project
 
