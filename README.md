@@ -1,4 +1,8 @@
 # Swim Sugar
+
+## Author
+Candice Milburn
+
 ### This is my first capstone project assignment for an ecommerce website.
 This project contains 7 pages:<br>
 1. index.html<br>
