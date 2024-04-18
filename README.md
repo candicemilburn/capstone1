@@ -1,5 +1,5 @@
 # Swim Sugar
-## This is my first capstone project for an ecommerce websitesite
+### This is my first capstone project assignment for an ecommerce website.
 This project contains 7 pages:<br>
 1. index.html<br>
 2. onepiece.html<br>
@@ -8,11 +8,15 @@ This project contains 7 pages:<br>
 5. bikinis.html<br>
 6. swim.html<br>
 7. checkout.html<br>
-<br>
-# Technologies Used
 
+## Technology Used
 The technologies used in this project include:
-
   * HTML
   * CSS
-  * JavaScript
+  *Bootstrap 5
+
+## Install This Project
+
+git clone https://github.com/candicemilburn/capstone1
+
+
